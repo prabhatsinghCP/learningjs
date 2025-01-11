@@ -5,5 +5,7 @@ This is my conflict merging
 I love challenges
 
 
+here is main line to understand 
+
 
 I am adding it just to understand git diff Command 
